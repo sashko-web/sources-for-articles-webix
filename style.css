@@ -1,0 +1,24 @@
+.list_color{
+  background-color: #EEEEEE;
+  font-weight: 500;
+}
+.list_color .webix_selected{
+  background-color: #dddfe2;
+}
+
+.list_color .webix_img_btn{
+  background-color: #EEEEEE;
+  color: #288C48;
+  font-weight: normal;
+}
+.list_color .webix_img_btn:hover{
+  background-color: #EEEEEE;
+  cursor: unset;
+}
+.webix_secondary .webix_button .webix_icon_btn {
+  color: #288C48;
+}
+
+.center_text{
+  text-align:center;
+}
