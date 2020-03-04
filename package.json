@@ -1,0 +1,19 @@
+{
+  "name": "my-webix-samples",
+  "version": "1.1.1",
+  "description": "Somple Webix exampes with backend",
+  "scripts": {
+    "server": "node backend/index.js"
+  },
+  "homepage": "https://webix.com",
+  "devDependencies": {
+    "apollo-server-express": "^2.2.2",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "eslint": "^5.8.0",
+    "express": "^4.16.4",
+    "faye": "^1.2.4",
+    "nedb": "^1.8.0"
+  },
+  "dependencies": {}
+}

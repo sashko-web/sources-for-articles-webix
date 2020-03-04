@@ -1,0 +1,13 @@
+.idea/*
+.DS_Store
+
+*.sublime-workspace
+*.sublime-project
+*.zip
+*.log
+
+_dev/temp
+
+node_modules/*
+
+backend/uploads
