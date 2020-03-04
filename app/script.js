@@ -31,10 +31,10 @@ dp.attachEvent('onAfterSync', () => {
 });
 
 dp.attachEvent("onAfterSaveError", function(id, status, response, details){
-    webix.message('onAfterSaveError');
+    webix.message("Error!");
 });
 
 $$("datatable").attachEvent("onLoadError", function(xhr){
-    webix.message(xhr);
+    webix.message("Error!");
 });
 
